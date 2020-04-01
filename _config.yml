@@ -1,1 +1,4 @@
-theme: jekyll-theme-merlot
+title: PHP + MySQL 留言板開發教學
+theme: jekyll-theme-cayman
+markdown: kramdown
+show_downloads: false
