@@ -8,6 +8,11 @@ This tutorial is mainly about using PHP and MySQL develop a super simple and eas
 # PHP
 # PDO
 # MySQL
+# What is database?
+Main purposes
+1. Store data
+2. Query data
+3. Process data
 ---
 # SQL
 ## Create
