@@ -3,6 +3,12 @@
 This tutorial is mainly about using PHP and MySQL develop a super simple and easy guestbook.
 
 # Vistual Studio Code
+## 中文界面
+---
+
+---
+# Browser
+## DevTools
 ---
 # Set Up XAMPP
 # PHP
@@ -21,9 +27,7 @@ Main purposes
 ## Delete
 ---
 # PhpMyAdmin
----
-# Browser
-## DevTools
+
 ---
 # Layout (HTML)
 
