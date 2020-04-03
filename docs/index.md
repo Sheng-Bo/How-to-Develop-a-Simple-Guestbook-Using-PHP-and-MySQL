@@ -17,6 +17,8 @@ This tutorial is mainly about using PHP and MySQL develop a super simple and eas
 
 ---
 # Browser
+https://www.google.com/chrome/
+搜尋 Chrome
 ## DevTools
 ---
 # Set Up XAMPP
