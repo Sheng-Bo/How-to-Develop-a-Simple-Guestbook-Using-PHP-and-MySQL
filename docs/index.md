@@ -26,6 +26,7 @@ https://www.google.com/chrome/
 2. https://www.microsoft.com/zh-TW/download/details.aspx?id=52685
 3. Microsoft Visual C++ 2015 可轉散發套件 Update 3 RC
 4. 32 or 64
+5. https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads
 
 # PHP
 # PDO
