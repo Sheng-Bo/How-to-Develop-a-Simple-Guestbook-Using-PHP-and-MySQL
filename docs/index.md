@@ -23,8 +23,8 @@ https://www.google.com/chrome/
 ---
 # Set Up XAMPP
 1. https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.4/xampp-portable-windows-x64-7.4.4-0-VC15.zip/download
-2. https://www.microsoft.com/zh-TW/download/details.aspx?id=48145
-3. Microsoft Visual C++ 2015 可轉散發套件
+2. https://www.microsoft.com/zh-TW/download/details.aspx?id=52685
+3. Microsoft Visual C++ 2015 可轉散發套件 Update 3 RC
 4. 32 or 64
 
 # PHP
