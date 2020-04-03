@@ -23,10 +23,9 @@ https://www.google.com/chrome/
 ---
 # Set Up XAMPP
 1. https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.4/xampp-portable-windows-x64-7.4.4-0-VC15.zip/download
-2. https://www.microsoft.com/zh-TW/download/details.aspx?id=52685
-3. Microsoft Visual C++ 2015 可轉散發套件 Update 3 RC
-4. 32 or 64
-5. https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads
+1. https://support.microsoft.com/zh-tw/help/2977003/the-latest-supported-visual-c-downloads 
+1. 32 or 64
+1. 最新支援的 Visual C++ 下載
 
 # PHP
 # PDO
