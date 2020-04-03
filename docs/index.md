@@ -22,6 +22,7 @@ https://www.google.com/chrome/
 ## DevTools
 ---
 # Set Up XAMPP
+https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.4/xampp-portable-windows-x64-7.4.4-0-VC15.zip/download
 # PHP
 # PDO
 # MySQL
