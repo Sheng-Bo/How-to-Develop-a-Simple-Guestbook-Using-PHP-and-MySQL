@@ -2,8 +2,11 @@
 
 This tutorial is mainly about using PHP and MySQL develop a super simple and easy guestbook.
 
-# Vistual Studio Code
+# 安裝程式碼編輯器 Vistual Studio Code
+## 微軟 Visual Studio Code 或者簡稱 VS Code 是目前最流行的免費程式碼編輯器之一。如果你已經安裝了這個軟體，請跳過。
 ## 中文界面
+
+
 ---
 
 ---
