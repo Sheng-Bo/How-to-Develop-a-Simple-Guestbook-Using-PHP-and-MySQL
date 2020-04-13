@@ -11,7 +11,6 @@ This tutorial is mainly about using PHP and MySQL develop a super simple and eas
 微軟 Visual Studio Code 或者簡稱 VS Code 是目前最流行的免費程式碼編輯器之一。如果你已經安裝了這個軟體，請跳過。
 
 1. 前往 https://code.visualstudio.com/
-
 1. 點擊：
 1. 雙擊：
 
@@ -57,4 +56,3 @@ Main purposes
 
 ---
 # Layout (HTML)
-
